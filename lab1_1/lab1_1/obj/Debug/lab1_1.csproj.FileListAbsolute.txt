@@ -1,0 +1,11 @@
+C:\Все1\ООП\lab1_1\lab1_1\bin\Debug\lab1_1.exe.config
+C:\Все1\ООП\lab1_1\lab1_1\bin\Debug\lab1_1.exe
+C:\Все1\ООП\lab1_1\lab1_1\bin\Debug\lab1_1.pdb
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.AssemblyReference.cache
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.SuggestedBindingRedirects.cache
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.Form1.resources
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.Properties.Resources.resources
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.GenerateResource.cache
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.CoreCompileInputs.cache
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.exe
+C:\Все1\ООП\lab1_1\lab1_1\obj\Debug\lab1_1.pdb
